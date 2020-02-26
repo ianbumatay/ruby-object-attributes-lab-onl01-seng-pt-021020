@@ -9,8 +9,8 @@ class Dog
    end
 
 
-  def breed= (breeds)
-    @breed = breeds
+  def breeds= (breed)
+    @breed = breed
   end
 
   def job
