@@ -13,8 +13,8 @@ class Dog
     @breed = breed
   end
 
-  def job
-    @breeds
+  def breed
+    @breed
   end
 
 end
