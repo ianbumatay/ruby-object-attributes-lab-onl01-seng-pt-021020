@@ -10,11 +10,11 @@ class Dog
 
 
   def breed= (breed)
-    @breeds = breed
+    @breed = breed
   end
 
   def job
-    @breed
+    @breeds
   end
 
 end
